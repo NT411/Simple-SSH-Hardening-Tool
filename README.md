@@ -94,7 +94,7 @@ Enter — Select action
 
 Q — Quit / return
 
-### Screenshots
+### Screenshot
 
 ![Main Menu](main.png)
 
