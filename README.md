@@ -96,5 +96,5 @@ Q — Quit / return
 
 ### Screenshots
 
-
+![Main Menu](main.png)
 
