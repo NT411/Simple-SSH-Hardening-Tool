@@ -65,7 +65,7 @@ This tool manages system components and requires:
 
 **Debian / Ubuntu**
 ```bash
-sudo apt install python3 iptables iproute2 openssh-server sudo
+sudo apt install python3 iptables iproute2 openssh-server 
 ```
 **Arch**
 ```bash
