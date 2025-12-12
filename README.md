@@ -47,7 +47,7 @@ It **simplifies and manages the existing system firewall (iptables)** and OpenSS
 ## Requirements
 
 ### Python
-- Python **3.8+**
+- Python **3**
 - No third-party Python libraries required
 
 ### System Dependencies
