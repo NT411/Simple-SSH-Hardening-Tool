@@ -75,7 +75,7 @@ sudo pacman -S python iptables iproute2 openssh
 
 ## Clone the repo 
 ```bash
-git clone https://repolink
+git clone https://github.com/NT411/Simple-SSH-Hardening-Tool
 ```
 ## Open the repo directory 
 ```bash
@@ -83,7 +83,7 @@ cd Simple-SSH-Hardening-Tool
 ```
 ## Run the scrypt 
 ```bash
-sudo python scriptName.py
+sudo python sshtui.py
 ```
 
 ### Usage
